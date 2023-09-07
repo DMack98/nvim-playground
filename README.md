@@ -46,6 +46,8 @@ Many people are interested in my [personal configuration](https://github.com/gle
 
 What does dope do? dope wants vimers to have their own config with high performance
 
+testing something
+
 fast speed and modernity.
 
 ## Structure
